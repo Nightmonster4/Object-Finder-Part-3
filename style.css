@@ -1,0 +1,35 @@
+.top{
+    width: 100%;
+    margin-top: 0;
+    font-weight:bold;
+}
+
+body{
+    background-size: cover;
+}
+
+#footer{
+    width: 100%;
+    bottom: 0;
+    color: black;
+    position: fixed;
+    background-color: grey;
+    line-height: 3;
+    font-weight: bold;
+}
+
+canvas{
+    box-shadow: 5px 5px 5px grey;
+    border: 5px solid white;
+    border-radius: 10px;
+    margin-top: 180px;
+}
+
+#htu{
+    color: black;
+}
+
+#ON{
+    font-weight: bold;
+    color: black;
+}
